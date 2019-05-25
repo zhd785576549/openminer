@@ -1,0 +1,2 @@
+# openminer
+Open miner software
